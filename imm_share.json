@@ -1,0 +1,8 @@
+{
+  "apiKey": "AIzaSyA3HPyqOes11hAY2GHDgN7qT4RBWeNGHno",
+  "databaseURL": "https://kpsn-9974c-default-rtdb.asia-southeast1.firebasedatabase.app",
+  "name": "suwon",
+  "lat": 37.25,
+  "lon": 127.07,
+  "sensor": "ADXL355"
+}
